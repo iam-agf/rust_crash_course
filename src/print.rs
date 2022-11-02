@@ -14,5 +14,8 @@ pub fn run() {
     activity = "Baseball");
 
     // Placeholder traits
-    println!("Binary: {:b}\nHex: {:x}\nOcto: {:o}",10,10,10)
+    println!("Binary: {:b}\nHex: {:x}\nOcto: {:o}",10,10,10);
+
+    // Basic Math 
+    println!("10 + 10 = {}", 10+10)
 }
